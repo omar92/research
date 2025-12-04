@@ -780,7 +780,7 @@ While adverse events are not anticipated, any occurrence will be:
 
 1. Ptasznik R. Ultrasound in the diagnosis of knee injury. Semin Musculoskelet Radiol. 2023;27(2):113-125.
 
-2. Özçakar L, Defined by: Kara M, Tok F, et al. Musculoskeletal ultrasound for peripheral nerve lesions. Eur J Phys Rehabil Med. 2015;51(1):1-13.
+2. Özçakar L, Kara M, Tok F, et al. Musculoskeletal ultrasound for peripheral nerve lesions. Eur J Phys Rehabil Med. 2015;51(1):1-13.
 
 3. Beggs I. Ultrasound of the knee joint. Eur J Ultrasound. 1999;10(2-3):141-149.
 
